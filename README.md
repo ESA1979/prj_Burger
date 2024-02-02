@@ -4,5 +4,7 @@
 
 - Responsive Structure was used.
 
-<img src="burger_gif.gif"/>
+- Designed by ESA
+
+<img src="burger.gif"/>
 
